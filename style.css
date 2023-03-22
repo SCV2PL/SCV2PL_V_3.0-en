@@ -224,12 +224,10 @@ width: 90%;
   overflow: hidden;
   background-color: #313b4e;
   position: relative;
-  width: 90%;
 }
 
 .topnav #myLinks {
   display: none;
-  width: 90%;
 }
 
 .topnav a {
